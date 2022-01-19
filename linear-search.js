@@ -14,4 +14,4 @@ const linearSearch = (arr, item) => {
 
 console.log(linearSearch(array, 11)); // element index in array in current case 3
 // console.log(`count = ${ count }`)
-console.log('count = ', count)
+console.log(`count = ${count}`);
