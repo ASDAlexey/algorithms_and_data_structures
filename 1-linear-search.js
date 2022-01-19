@@ -1,3 +1,4 @@
+// https://www.youtube.com/watch?v=NErrGZ64OdE
 const array = [1, 4, 5, 8, 5, 1, 2, 7, 5, 2, 11];
 let count = 0;
 
