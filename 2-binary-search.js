@@ -29,5 +29,5 @@ const binarySearch = (arr, item) => {
   return position;
 };
 
-console.log(binarySearch(array, 4));
-console.log(`count = ${ count }`);
+console.log(binarySearch(array, 15));
+console.log(`count = ${ count }`); // 4 - is max count for this array

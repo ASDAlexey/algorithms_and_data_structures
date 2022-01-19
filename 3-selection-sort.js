@@ -22,6 +22,6 @@ const selectionSearch = (arr) => {
   return arr;
 }
 
-console.log(selectionSearch(array));
-console.log(`array.length = ${ array.length }`);
-console.log(`count = ${ count }`);
+console.log(selectionSearch(array)); // [-5,-1,0,1,1,1,2,2,2,2,3,3,4,4,5,6,6,6,6,7,8,9,9,23,32,35]
+console.log(`array.length = ${ array.length }`); // 26
+console.log(`count = ${ count }`); // 325
